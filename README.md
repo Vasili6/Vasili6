@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 4. Nickname: Farcode
 
 ### :zap: Actividad reciente
-<!--START_SECTION:ACTIVITY-->
-
-<!--END_SECTION:ACTIVITY-->
+<!--START_SECTION:start-->
+<!--END_SECTION:last_update-->
 
 ```mermaid
 
