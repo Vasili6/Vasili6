@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 3. Country: Mexico
 4. Nickname: Farcode
 
+### :zap: Actividad reciente
+<!--START_SECTION:ACTIVITY-->
+
+<!--END_SECTION:ACTIVITY-->
 
 ```mermaid
 
